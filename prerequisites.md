@@ -1,4 +1,4 @@
-* Credits: [Abhishek Veeramalla](https://github.com/iam-veeramalla)
+* Guide: [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
 kubectl – A command line tool for working with Kubernetes clusters. For more information, see Installing or updating kubectl.
 
